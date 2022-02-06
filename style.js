@@ -15,11 +15,11 @@ function check() {
     if (q4 =="Javascript") {d+= 10}
     if (q5 =="Javascript") {d+= 10}
     if (q6 =="Javascript") {d+= 10}
-
+ 
     
     if(d <= 50) 
     {
-     document.write=(`Your result is ${d}. It is poor,try again!`)
+     document.write(`Your result is ${d}. It is poor,try again!`)
     }
     else if(d > 60 && d < 80){
        document.write (`Your result is ${d}. It is fair!`)
