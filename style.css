@@ -60,6 +60,10 @@ form p{
     margin-left: 70px;
 
 }
+.button p{
+    color: white;
+    text-align: center;
+}
 
 .free div{
     background-color: cyan;
