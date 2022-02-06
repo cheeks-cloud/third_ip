@@ -73,14 +73,14 @@ form p{
 .crime,.lost,.house, form{
     padding: 30px;
 }
-/*footer{
+footer{
     background-color: cyan;
     height: 50px;
 }
 footer p{
     margin-bottom: 0;
 }
-#button{
+/*#button{
     background-color: black;
     color: white;
     padding: 30px;
