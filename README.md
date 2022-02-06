@@ -1,4 +1,4 @@
-<!-- # tthird_ip
+ # tthird_ip
 
 ### version vi.o.3
 
@@ -53,4 +53,4 @@
   [Go back to the top](#third_ip)
 
   ## Design Linnk
-  () -->
+  
