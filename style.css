@@ -80,7 +80,7 @@ footer{
 footer p{
     margin-bottom: 0;
 }
-/*#button{
+#button{
     background-color: black;
     color: white;
     padding: 30px;
@@ -97,4 +97,4 @@ footer p{
     outline: none;
     background-color: cyan;
     color: black ;
-} */
+} 
