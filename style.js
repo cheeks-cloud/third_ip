@@ -9,23 +9,23 @@ function check() {
 
     
 
-//     if (q1 =="Javascript") {d+= 10}
-//     if (q2 =="Russia") {d+= 10}
-//     if (q3 =="Beijing") {d+= 10}
-//     if (q4 =="Javascript") {d+= 10}
-//     if (q5 =="Javascript") {d+= 10}
-//     if (q6 =="Javascript") {d+= 10}
+    if (q1 =="Javascript") {d+= 10}
+    if (q2 =="Russia") {d+= 10}
+    if (q3 =="Beijing") {d+= 10}
+    if (q4 =="Javascript") {d+= 10}
+    if (q5 =="Javascript") {d+= 10}
+    if (q6 =="Javascript") {d+= 10}
 
     
-//     if(d <= 50) 
-//     {
-//      document.write=(`Your result is ${d}. It is poor,try again!`)
-//     }
-//     else if(d > 60 && d < 80){
-//        document.write (`Your result is ${d}. It is fair!`)
-//     } 
-//     else {
-//         document.write(`Your result is ${d}. It is Awesome!`)
-//     }
+    if(d <= 50) 
+    {
+     document.write=(`Your result is ${d}. It is poor,try again!`)
+    }
+    else if(d > 60 && d < 80){
+       document.write (`Your result is ${d}. It is fair!`)
+    } 
+    else {
+        document.write(`Your result is ${d}. It is Awesome!`)
+    }
     
-// }
+}
