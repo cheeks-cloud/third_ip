@@ -2,12 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: o;
+    
 }
 .posible{
     background-image: url("./images/tree-736885__480.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 800px;
     width: auto;
 
 }
@@ -16,9 +17,6 @@ nav{
  justify-content: space-around;
  background-color: turquoise;
  height: 60px;
-}
-nav ul>li{
- margin-left: 30px;
 }
 nav p{
     font-weight: 600;
@@ -44,24 +42,25 @@ form p{
     font-size: xx-large;
     font-weight: bolder;
 }
+.house{
+    text-align: center;
+}
 .button{
  background-color: rgb(0,0,0,0.9);
-
-
+ margin: 40px;
 }
-.free,.lost,.crime,.house{
+.free,.lost,.crime{
     display: flex;
     justify-content:center ;
     align-items: center;
     
 }
 .button div{
-  padding: 40px;
-    margin-left: 70px;
+  padding: 50px;
+    margin-left: 100px;
 
 }
 .button p{
-    color: white;
     text-align: center;
 }
 
@@ -74,7 +73,7 @@ form p{
 .lost div{
     background-color: cyan;
 }
-.crime,.lost,.house, form{
+.crime,.lost,.free{
     padding: 30px;
 }
 footer{
