@@ -1,4 +1,4 @@
-/* *{
+ *{
     box-sizing: border-box;
     margin: 0;
     padding: o;
@@ -31,7 +31,7 @@ nav button{
     color: white;
     padding: 25px;
 }
-form p{
+/*form p{
     text-align: center;
     color: black;
 
